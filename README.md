@@ -3,7 +3,7 @@
 
 ## O Projeto
 
-Projeto desenvolvido para uma atividade prática da faculdade, onde consistia criar uma página web apresentando uma receita culinária.
+Projeto desenvolvido para uma atividade prática da faculdade, onde consiste em criar uma página web apresentando uma receita culinária.
 
 ### Estrutura de arquivos
 
